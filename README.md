@@ -7,6 +7,7 @@ This is a test repo.
 
 ### This is a tertiary heading
 
+this is a bullet list
 * first item
 * second item
 * third item
